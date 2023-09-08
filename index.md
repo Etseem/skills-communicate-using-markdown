@@ -7,3 +7,7 @@
 ``` javascript
 var newVar = "Test.";
 ```
+
+- [x] Complete Reading Assignment
+- [x] Complete Assignment 1
+- [ ] Complete Assignment 2
